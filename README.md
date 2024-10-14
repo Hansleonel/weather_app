@@ -31,12 +31,18 @@ For proper use in production:
 3. Ensure you have an emulator running or a device connected
 4. Run `flutter run` to start the application
 
+https://github.com/user-attachments/assets/287850d1-f49d-4734-9fa8-9bf140be3fbf
+
+
+
 ## Main Dependencies
 
 - `http`: For making API calls
 - `provider`: For state management
 - `lottie`: For weather condition animations
 - `sqflite`: For local cache storage
+
+  
 
 ## Contributions
 
