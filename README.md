@@ -4,7 +4,8 @@
 
 This is a weather forecast application developed with Flutter by HansLeonel. It allows users to obtain up-to-date weather information for different locations. The app uses the OpenWeatherMap API to fetch real-time data and offers the following features:
 
-- Weather forecast search by location
+- Current location in real-time.
+- Weather forecast search by location.
 - Display of current temperature, weather conditions, humidity, and wind speed
 - Lottie animations to visually represent weather conditions
 - Option to switch between temperature units (Celsius/Fahrenheit)
