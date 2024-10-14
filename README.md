@@ -10,6 +10,7 @@ This is a weather forecast application developed with Flutter by HansLeonel. It 
 - Lottie animations to visually represent weather conditions
 - Option to switch between temperature units (Celsius/Fahrenheit)
 - Local caching of weather data to reduce API calls
+- Theme management (Light/Dark mode)
 
 ## Note on API Key
 
@@ -32,7 +33,11 @@ For proper use in production:
 3. Ensure you have an emulator running or a device connected
 4. Run `flutter run` to start the application
 
+
+
 https://github.com/user-attachments/assets/287850d1-f49d-4734-9fa8-9bf140be3fbf
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-14 at 17 32 44](https://github.com/user-attachments/assets/c3539122-1ff6-4c93-a8c0-365f4b5abbcc)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-14 at 17 33 06](https://github.com/user-attachments/assets/91c438d7-9a73-4b3b-b822-fdcfdedb40dc)
 
 
 
